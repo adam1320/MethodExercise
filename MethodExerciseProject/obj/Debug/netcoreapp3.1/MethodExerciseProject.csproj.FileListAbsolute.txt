@@ -1,0 +1,14 @@
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\obj\Debug\netcoreapp3.1\MethodExerciseProject.csproj.AssemblyReference.cache
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\obj\Debug\netcoreapp3.1\MethodExerciseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\obj\Debug\netcoreapp3.1\MethodExerciseProject.AssemblyInfoInputs.cache
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\obj\Debug\netcoreapp3.1\MethodExerciseProject.AssemblyInfo.cs
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\obj\Debug\netcoreapp3.1\MethodExerciseProject.csproj.CoreCompileInputs.cache
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\bin\Debug\netcoreapp3.1\MethodExerciseProject.exe
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\bin\Debug\netcoreapp3.1\MethodExerciseProject.deps.json
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\bin\Debug\netcoreapp3.1\MethodExerciseProject.runtimeconfig.json
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\bin\Debug\netcoreapp3.1\MethodExerciseProject.runtimeconfig.dev.json
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\bin\Debug\netcoreapp3.1\MethodExerciseProject.dll
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\bin\Debug\netcoreapp3.1\MethodExerciseProject.pdb
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\obj\Debug\netcoreapp3.1\MethodExerciseProject.dll
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\obj\Debug\netcoreapp3.1\MethodExerciseProject.pdb
+C:\Users\Adam\TrueCoders\repos\MethodExerciseProject\MethodExerciseProject\obj\Debug\netcoreapp3.1\MethodExerciseProject.genruntimeconfig.cache
